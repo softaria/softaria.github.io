@@ -1,1 +1,4 @@
 theme: jekyll-theme-tactile
+title: Softaria Documentation
+description: Public documentation for Semantic Math Editor and other softaria projects.
+show_downloads: false
