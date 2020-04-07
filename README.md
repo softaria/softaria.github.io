@@ -1,4 +1,4 @@
-# Welcome to softaria projects documentation site
+# Softaria projects documentation
 
 [Semantic Math Editor Documentation](https://softaria.github.io/semantic-math-editor)
 
